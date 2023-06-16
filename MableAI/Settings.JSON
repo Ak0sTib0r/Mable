@@ -1,0 +1,16 @@
+{
+    "voice_options": {
+        "voice_ID": "Voice_1: British",
+        "volume": "5.8",
+        "speed": "7.4399999999999995"
+    },
+    "active_times": {
+        "start_time": "09:00",
+        "start_part": "AM",
+        "end_time": "10:00",
+        "end_part": "PM"
+    },
+    "style": {
+        "theme": "dark"
+    }
+}

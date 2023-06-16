@@ -1,0 +1,26 @@
+{
+    "greetings": {
+        "g1": "hi",
+        "g2": "hello",
+        "g3": "welcome",
+        "g4": "greetings",
+        "g5": "hello there",
+        "g6": "hey"
+    },
+    "how_are_you": {
+        "h1": "I'm great.",
+        "h2": "I'm okay.",
+        "h3": "I feel great.",
+        "h4": "I'm all right.",
+        "h5": "I'm fantastic."
+    },
+    "name": {
+        "n1": "My name is Mable",
+        "n2": "I'm Mable",
+        "n3": "I go by Mable"
+    },
+    "my_name": {
+        "mn1": "Nice to meet you too",
+        "mn2": "Pleasure to meet you"
+    }
+}
