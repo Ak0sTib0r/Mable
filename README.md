@@ -1,7 +1,7 @@
 # Mable
 
 Modules needed:
-customtkinter,
+customtkinter,\\
 os,
 json,
 random,
