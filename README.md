@@ -1,5 +1,4 @@
 # Mable
-NEA: Personal Assisstant 
 
 Modules needed:
 customtkinter,
